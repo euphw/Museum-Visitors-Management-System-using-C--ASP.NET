@@ -1,0 +1,11 @@
+
+.emphsis {
+    font-weight: 500;
+    font-style: italic;
+    color: red;
+}
+
+.error {
+    color: red;
+}
+
